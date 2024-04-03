@@ -42,3 +42,52 @@ body {
     grid-column: 5 / 7;
     background-color: rgb(206, 110, 206);
 }
+
+.fifth {
+    grid-row: 5 / 7;
+    grid-column: 5 / 7;
+    background-color: rgb(166, 89, 166);
+}
+
+.sixth {
+    grid-row: 4 / 7;
+    grid-column: 1 / 3;
+    background-color: rgb(183, 142, 183);
+}
+
+.seventh {
+    grid-row: 7 / 11;
+    grid-column: 1 / 3;
+    background-color: rgb(107, 65, 107);
+}
+
+.eigth {
+    grid-row: 7 / 9;
+    grid-column: 3 / 4;
+    background-color: rgb(134, 88, 134);
+}
+
+.ninth {
+    grid-row: 9 / 11;
+    grid-column: 3 / 4;
+    background-color: rgb(110, 87, 110);
+}
+
+.tenth {
+    grid-row: 7 / 11;
+    grid-column: 4 / 6;
+    background-color: plum;
+}
+
+.eleventh {
+    grid-row: 7 / 11;
+    grid-column: 6 / 7;
+    background-color: rgb(243, 138, 243);
+}
+
+.twelfth {
+    grid-row: 11 / 13;
+    grid-column: 1 / 7;
+    background-color: rgb(237, 203, 237);
+    padding: none;
+}
